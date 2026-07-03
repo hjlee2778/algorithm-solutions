@@ -76,6 +76,7 @@
 - JavaScript다운 구현
 - 더 나은 자료구조나 알고리즘
 - 예외 케이스
+- 가장 중요하게 기억해야 할 개념
 - 채팅 중 나왔던 질문, 실수, 배운 점
 
 ### 파일 생성 요청
@@ -92,6 +93,7 @@
 - 공간복잡도
 - 헷갈렸던 점
 - 실수한 부분
+- 가장 중요하게 기억해야 할 개념
 - 리뷰 후 개선점
 
 ## 저장소 구조
@@ -165,4 +167,3 @@ leetcode/medium/0003_longest_substring/
   - `review leetcode 0003 longest substring`
   - `add heap notes`
   - `document failed attempt for leetcode 0042`
-
